@@ -95,5 +95,5 @@ These results indicate that the model captures part of the variability of monthl
 ## Project Structure
 
 notebook/
-telecom_churn_analysis.ipynb
+telecom_churn_spark.ipynb
 
